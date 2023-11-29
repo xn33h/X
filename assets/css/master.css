@@ -2347,6 +2347,7 @@ nav.navbar.navbar-default.navbar-fixed.dark.bootsnav.on.no-full.no-border.studio
 
 nav.navbar.navbar-default.navbar-fixed.dark.bootsnav.on.no-full.no-border.studio.brand-center.menu-center {
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     background: #0000;
 }
 
