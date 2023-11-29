@@ -2375,6 +2375,7 @@ nav.navbar.bootsnav.studio ul.nav > li > a:after {
     background: #ffffff;
     height: 2px;
     transition: all .5s;
+    mix-blend-mode: difference;
 }
 nav.navbar.bootsnav.dark ul.nav > li > a:hover, nav.navbar.bootsnav.dark .attr-nav > ul > li > a:hover{
   color:#ddd!important;
